@@ -1,0 +1,7 @@
+cmake_minimum_required(VERSION 3.10)
+project (test1)
+set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -std=c++11 -Wall")
+find_package(OpenCV REQUIRED)
+include_directories( ${OpenCV_INCLUDE_DIRS} )
+add_executable(Main test1.cpp chronoTest.cpp)
+target_link_libraries(Main ${OpenCV_LIBS})

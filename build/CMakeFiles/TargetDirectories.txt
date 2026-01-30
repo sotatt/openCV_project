@@ -1,0 +1,3 @@
+/Users/sota/Documents/projects/C++Projects/OpenCV_profect/build/CMakeFiles/Main.dir
+/Users/sota/Documents/projects/C++Projects/OpenCV_profect/build/CMakeFiles/edit_cache.dir
+/Users/sota/Documents/projects/C++Projects/OpenCV_profect/build/CMakeFiles/rebuild_cache.dir
